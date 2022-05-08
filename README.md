@@ -8,9 +8,11 @@ I love tech because has the elasticity to allow me expand my limits, and since i
 
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/)
-* 🧠  I'm learning React and Angular
+* 🧠  I'm currently learning React and Angular
 * 🤝  I'm open to collaborating on React and Angular projects
-* ⚡  Fascinated by Web3
+* 👀  I’m interested in JavaScript and JS Frameworks, Web3 and Blockchain Technology
+* ⚡  I'm fascinated by Web3
+* 📫  I can be reached on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/) or on [Twitter](https://twitter.com/lolomakuyana)
 
 ### Skills
 
