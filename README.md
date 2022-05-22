@@ -4,7 +4,7 @@ Hi 👋 My name is Lorraine Makuyana
 Junior Software Engineer/Developer
 ----------------------------------
 
-I love tech because has the elasticity to allow me expand my limits, and since it is constantly evolving, there is a guarantee of something new to learn to keep me on my toes and my mind engaged. I enjoy applying engineering best practices to the problems I tackle and I always want to make the most impact with every product engineered.
+I love tech because it has the elasticity to allow me expand my limits, and since it is constantly evolving, there is a guarantee of something new to learn to keep me on my toes and my mind engaged. I enjoy applying engineering best practices to the problems I tackle and I always want to make the most impact with every product engineered.
 
 * 🌍  I'm based in Accra, Ghana
 * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/)
