@@ -1,17 +1,17 @@
 Hi 👋 I'm Lorraine Makuyana
 ==================================
 
-Junior Software Engineer/Developer
+I am a Junior Software Engineer/Developer
 ----------------------------------
 
-I love tech because it has the elasticity to allow me expand my limits, and since it is constantly evolving, there is a guarantee of something new to learn to keep me on my toes and my mind engaged. I enjoy applying engineering best practices to the problems I tackle and I always want to make the most impact with every product engineered.
+I am in tech because it has the elasticity that I need to be limitless in innovation and impact. Change and growth are certain in tech, keeping me on my toes and my mind engaged. I enjoy applying engineering best practices to the problems I tackle and I am passionate about making the most impact with every product engineered. 
 
-* 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/)
-* 🧠  I'm currently learning React and Angular
-* 🤝  I'm open to collaborating on React and Angular projects
+* 🌍  I'm based in Harare, Zimbabwe
+<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
+* 🧠  I am currently using JavaScript, React and React Native for development. I'm currently learning Solidity
+* 🤝  I am open to collaborating on React and Solidity projects
 * 👀  I’m interested in JavaScript and JS Frameworks, Web3 and Blockchain Technology
-* ⚡  I'm fascinated by Web3
+* ⚡  I'm fascinated by Web3, AI and ML
 * 📫  I can be reached on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/) or on [Twitter](https://twitter.com/lolomakuyana)
 
 ### Skills
