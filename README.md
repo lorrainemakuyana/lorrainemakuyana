@@ -1,16 +1,14 @@
 Hi 👋 I'm Lorraine Makuyana
 ==================================
 
-I am a Software Engineer/Developer
+I am a Software Engineer
 ----------------------------------
 
 Why tech? It gives me the power to create anything I envision and with every product I make lasting impact and innovate.
 
 * 🌍  I'm based in the UK<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
-* 🧠  I am proficient in JavaScript (TypeScript), React, Next and React Native, currently learning Solidity and Python for Machine Learning and AI 
-* 🤝  I am open to collaborations, and excited to stretch my tech stack
-* 👀  I am interested in JavaScript and its Frameworks, Web3 and Blockchain Technology, and Machine Learning and AI
-* ⚡  I'm fascinated by Web3, AI and ML
+* 🧠  I am proficient in JavaScript (TypeScript), React, Next and React Native, and excited to learn Web3 tech, ML and AI
+* 🤝  I have over 2 years experience delivering value through different products which generated over $12000 in revenue
 * 📫  I can be reached on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/) or on [Twitter](https://twitter.com/lolomakuyana)
 
 ### Skills
