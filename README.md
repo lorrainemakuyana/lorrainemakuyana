@@ -1,4 +1,4 @@
-Hi 👋 I'm Lorraine Makuyana
+Hi 👋 I'm Lorraine
 ==================================
 
 I am a Software Engineer
