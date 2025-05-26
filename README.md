@@ -4,11 +4,11 @@ Hi 👋 I'm Lorraine Makuyana
 I am a Software Engineer
 ----------------------------------
 
-Why tech? It gives me the power to create anything I envision and with every product I make lasting impact and innovate.
+Why tech? We can create anything you can envision and make lasting impact.
 
-* 🌍  I'm based in the UK<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
-* 🧠  I am proficient in JavaScript (TypeScript), React, Next and React Native, and excited to learn Web3 tech, ML and AI
-* 🤝  I have over 2 years experience delivering value through different products which generated over $12000 in revenue
+* 🌍  Based in the UK<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
+* 🧠  JavaScript, TypeScript, React, Next, React Native, Java, Python and excited to learn Web3, ML and AI engineering
+* 🤝  Over 2 years experience delivering value and generating over $12k revenue
 * 📫  I can be reached on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/) or on [Twitter](https://twitter.com/lolomakuyana)
 
 ### Skills
@@ -23,6 +23,7 @@ Why tech? It gives me the power to create anything I envision and with every pro
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+<!--
 
 ### Socials
 
@@ -35,3 +36,5 @@ Why tech? It gives me the power to create anything I envision and with every pro
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/lolomakuyana"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+ -->
