@@ -1,15 +1,15 @@
 Hi 👋 I'm Lorraine
 ==================================
 
-I am a Software Engineer
+I am a Full Stack Software Engineer
 ----------------------------------
 
-Why tech? We can create anything you can envision and make lasting impact.
+Why tech? I can create anything I can envision and make lasting impact.
 
 * 🌍  Based in the UK<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
 * 🧠  JavaScript, TypeScript, React, Next, React Native, Java, Python and excited to learn Web3, ML and AI engineering
 * 🤝  Over 2 years experience delivering value and generating over $12k revenue
-* 📫  I can be reached on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/) or on [Twitter](https://twitter.com/lolomakuyana)
+* 📫  I can be reached on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/)
 
 ### Skills
 
