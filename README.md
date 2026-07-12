@@ -1,10 +1,10 @@
 Why tech? I can create anything I can envision and make lasting impact.
 
-* 🌍  Based in the UK<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
-* 🧠  JavaScript, TypeScript, React, Next, React Native, Java, Python, ML and AI engineering
-* 🤝  3+ years experience delivering value and increasing revenue
-* 🎓  MSc. Computer Science (with Distinction), BSc Computer Engineering
-* 📫  Let's connect on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/)
+🌍  Based in the UK<!-- * 🖥️  See my portfolio at [this link](http://lorrainemakuyana.github.io/) -->
+🧠  JavaScript, TypeScript, React, Next, React Native, Java, Python, ML and AI engineering
+🤝  3+ years experience delivering value and increasing revenue
+🎓  MSc. Computer Science (with Distinction), BSc Computer Engineering
+📫  Let's connect on [LinkedIn](https://www.linkedin.com/in/lorraine-makuyana/)
 
 <!-- 
 Hi 👋 I'm Lorraine
